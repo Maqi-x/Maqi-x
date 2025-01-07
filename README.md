@@ -1,2 +1,2 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maqi-x&layout=compact)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maqi-x)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maqi-x)
